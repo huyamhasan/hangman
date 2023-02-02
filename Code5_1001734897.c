@@ -1,5 +1,4 @@
-//Rohan Bankala
-//1001734897
+
 
 #include <stdio.h>
 #include <ctype.h>
